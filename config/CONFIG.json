@@ -1,0 +1,10 @@
+{
+        "host": "localhost", 
+        "version": false, 
+        "port": 1234,
+        "owner": "R3akeOn3_",
+        "needsPort": true,
+        
+        "username": "",
+        "auth": "microsoft"
+}       

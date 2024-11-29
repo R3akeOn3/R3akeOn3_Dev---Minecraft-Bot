@@ -1,0 +1,16 @@
+{
+  "name": "bot-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "mineflayer": "^4.23.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}
